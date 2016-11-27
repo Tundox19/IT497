@@ -1,0 +1,6 @@
+tundeApp
+Education
+Illinois State University
+EMAIL: oolaniy@ilstu.edu
+PASSWORD: tundeProject497#
+School's project involving pulling data of Chinese and Indian restaurants in Chicago using R software.
